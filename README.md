@@ -1,6 +1,7 @@
-# simple_calculator
+# Simple Calculator
+[![Build Status](https://travis-ci.org/noerfathoni/simplecalculator.svg?branch=master)](https://travis-ci.org/noerfathoni/simplecalculator)
 
-A new Flutter project.
+Simple Calculator build with Flutter + Flutter Bloc
 
 ## Getting Started
 
